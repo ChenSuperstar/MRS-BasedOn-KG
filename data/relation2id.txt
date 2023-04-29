@@ -1,0 +1,13 @@
+12
+disease_symptom	0
+disease_department	1
+A_belongs_to_B	2
+acompany	3
+disease_commonDrug	4
+disease_recommandDrug	5
+disease_check	6
+drug_producer	7
+disease_cureway	8
+disease_noteat	9
+disease_doeat	10
+disease_recommandeat	11
